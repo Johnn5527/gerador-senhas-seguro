@@ -75,7 +75,7 @@ python -m pytest -q
 
 <div align="center">
 
-Feito com por **[Johnny Lucas](https://github.com/Johnn5527)**
+Feito por **[Johnny Lucas](https://github.com/Johnn5527)**
 
 </div>
 
